@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name is Laura, I'm an architect exploring the world of programming.
+My name is Laura, I'm an architect exploring the world of programming!
 
 - 📚 Currently working on the push_swap project at 42 and studying for Exam02 in C.
 - 💡 Just starting to learn Python.
