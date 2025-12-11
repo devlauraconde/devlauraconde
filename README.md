@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there!
+
+- 🔭 I’m currently working on the push_swap project at 42school and studying for Exam02 in C.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: devlauraconde@gmail.com
+- ⚡ Fun fact: I studied architecture and I'm still work as an architect while learning programming.
 
 <!--
 **devlauraconde/devlauraconde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
